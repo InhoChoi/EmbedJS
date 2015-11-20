@@ -32,3 +32,5 @@
 
 ./Debug
 /Debug/
+/Release/
+./Release
